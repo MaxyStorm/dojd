@@ -2,6 +2,35 @@
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml.gz; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml.gz"
 
-#EXTINF:-1 tvg-id="dozhd", Телеканал Дождь
-
+#EXTINF:-1 tvg-id="1", Телеканал Дождь
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/20083/index.m3u8
+#EXTINF:-1 tvg-id="2", Телеканал Дождь
+http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/2030/index.m3u8
+#EXTINF:-1 tvg-id="3", Телеканал Дождь
+http://cdn-bal.srv4you.net/0266/mpegts?token=8b8kdg2amh55t0
+#EXTINF:-1 tvg-id="4", Телеканал Дождь
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/2030/index.m3u8
+#EXTINF:-1 tvg-id="5", Телеканал Дождь
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WXGCMEGR55MVVL/20083/index.m3u8
+#EXTINF:-1 tvg-id="6", Телеканал Дождь
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WXGCMEGR55MVVL/2030/index.m3u8
+#EXTINF:-1 tvg-id="7", Настоящее Время
+http://cdn-bal.srv4you.net/0116/mpegts?token=8b8kdg2amh55t0
+#EXTINF:-1 tvg-id="8", Настоящее Время
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/986/index.m3u8
+#EXTINF:-1 tvg-id="9", Настоящее Время
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/9179/index.m3u8
+#EXTINF:-1 tvg-id="10", Настоящее Время
+http://85.11.144.6:6060/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="11", Настоящее Время
+http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/986/index.m3u8
+#EXTINF:-1 tvg-id="12", Настоящее Время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 tvg-id="13", Настоящее Время
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/master.m3u8
+#EXTINF:-1 tvg-id="14", Настоящее Время
+http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/9179/index.m3u8
+#EXTINF:-1 tvg-id="15", Настоящее Время
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WXGCMEGR55MVVL/986/index.m3u8
+#EXTINF:-1 tvg-id="16", Настоящее Время
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WXGCMEGR55MVVL/9179/index.m3u8
